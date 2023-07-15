@@ -1,0 +1,56 @@
+body 
+{
+
+    font-family: 'Special Elite', cursive;
+    background-size: cover;
+}
+
+.header_div
+{
+    background: white;
+    color: #ce2700;
+}
+
+.header_div p
+{
+   font-family: 'Shalimar', cursive;
+   color: gray;
+   letter-spacing: 2px;
+   font-size: 12px;
+   font-weight: bold;
+}
+
+.main_div button
+{
+    font-family: 'Yuji Syuku', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right-footer
+{
+    position: fixed;
+    color: blue;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: whitesmoke;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 10px, 10px, 10px rgb(151, 149, 149);
+}
+
+.heading
+{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+}
+
+#para
+{
+    font-size: 18px;
+    font-family: 'Special Elite', cursive;
+}
